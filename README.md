@@ -1,0 +1,1 @@
+# MFCThread_inclass
